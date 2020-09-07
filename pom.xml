@@ -20,11 +20,11 @@
         </plugins>
     </build>
 
-<!--    <distributionManagement>-->
-<!--        <repository>-->
-<!--            <id>genuis-maven-repo</id>-->
-<!--            <url>file:C:\\Users\\yitu\\Desktop\\genius-maven-repo\\repository\\</url>-->
-<!--        </repository>-->
-<!--    </distributionManagement>-->
+    <distributionManagement>
+        <repository>
+            <id>genuis-maven-repo</id>
+            <url>file:C:\\Users\\yitu\\Desktop\\genius-maven-repo\\repository\\</url>
+        </repository>
+    </distributionManagement>
 
 </project>
